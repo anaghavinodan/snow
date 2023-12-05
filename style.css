@@ -1,0 +1,30 @@
+h1{
+    color: purple;
+}
+h2{
+    color: aquamarine;
+}
+h3{
+    color: blue;
+}
+h4{
+    color: chartreuse;
+}
+h5{
+    color: crimson;
+}
+div{
+    border: 1px solid green;
+    width: 300px;
+    left: 300px;
+    background-color: antiquewhite;
+}
+img{
+    border: 1px  black;
+    border:  50%;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+/* body{
+    background-color: antiquewhite;
+} */
